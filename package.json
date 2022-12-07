@@ -4,8 +4,8 @@
   "description": "Social Network for Geeks and Devs",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "author": "Pratyush",
   "license": "MIT",
